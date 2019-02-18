@@ -13,3 +13,7 @@
 
 # Gotron files
 .gotron
+.gotron-builder
+
+# dist files
+dist/
